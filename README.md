@@ -8,7 +8,7 @@ Data Structures Work/problem solutions: [link](https://docs.google.com/document/
 
 Github: [link](https://github.com/sarahwxie/csatrimester3)
 
-Replit: [link](https://replit.com/@Sarahwxie/csaWeek1)
+Replit: [link](https://replit.com/@Sarahwxie/sarahChallange)
 
 
 ## Previous Activities
