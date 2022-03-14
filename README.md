@@ -1,6 +1,8 @@
 # Welcome to the csatrimester3 wiki!
 This is Sarah Xie's trimester 3 wiki for AP Comp Sci A
 
+Team Github Pages: [link](https://unblocked00.github.io/swagketo/)
+
 ## Week 1 Critical Links
 Notes and plans for each tech talk: [link](https://sarahwxie.github.io/csatrimester3/tech_talk)
 
