@@ -37,6 +37,33 @@ Data Structures
     * a linked list has data ( could be strings, ints, etc. )
 
 # week 2
+Calculator using Stacks, ArrayLists:
+* Calculator Theory:
+     * Reverse Polish Notation is standard calculator method >> allows the computer to understand and read an expression
+           * will always work if rules are followed
+     * creates a function tokensToReversePolishNotation
+
+```
+// Takes tokens and converts to Reverse Polish Notation (RPN), this is one where the operator follows its operands.
+    private void tokensToReversePolishNotation () {
+        // contains final list of tokens in RPN
+        this.reverse_polish = new ArrayList<>();
+```
+
+* Other key calculator parts:
+    * given driver, defined data structures, defined symbols
+    * Test functions
+    * Create a calculator class
+    * Tokenizer changes string expression into tokens
+           * Tokenizer uses for loop to break up the string
+           * Can also be multi-character terms (like numbers like 100)
+    * write the final methods for calculation, capture attributes, establish a toString
+* You have to write rpnToResult() to ensure the Reverse Polish Notation works
+* Add the power of operator (ensure that your numbers are in the correct order)
+* extra credit:
+     * Variable assignment: parse the stack and replace it with the number
+     * Can build functions like SQRT() >> shunting yard algorithm
+
 # week 3
 # week 4
 # week 5
