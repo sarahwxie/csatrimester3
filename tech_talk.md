@@ -65,6 +65,12 @@ Calculator using Stacks, ArrayLists:
      * Can build functions like SQRT() >> shunting yard algorithm
 
 # week 3
+* Build custom Bubble Sort, Selection Sort, Insertion Sort and Merge Sort.
+* Build a GitHub page that describes Sort implementations and the Big O complexity of these Sorts.
+* Establish analytics including: time, comparisons and swaps.
+* Average the results for each each Sort, run each at least 12 times and 5000 elements. You should throw out High and Low when doing analysis.
+* Make your final/judgement on best sort considering Data Structure loading, Comparisons, Swaps, Big O complexity, and Time.
+    
 # week 4
 # week 5
 # week 6
