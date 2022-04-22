@@ -11,7 +11,7 @@ This is Sarah Xie's trimester 3 wiki for AP Comp Sci A
 
 ## Important Links
 | Team Github            | Team GitHub Pages   | Profile   |
-| ------------------- | ----------------- | 
+| ------------------- | ----------------- | ----------------- | 
 | [link](https://github.com/avabrooks/swagketo)  | [link](https://avabrooks.github.io/swagketo/) | [link](https://github.com/sarahwxie) |
 
 
