@@ -2,6 +2,7 @@
 This is Sarah Xie's trimester 3 wiki for AP Comp Sci A
 
 ## Timebox
+
 | Week            | Tech Talk Notes   | Activity Reflecion      | Repl Code    | IntelliJ Code   | Ticket   |
 | ------------------- | ----------------- | ----------------- | ------------ | ------------ | ------------|
 | Week 5 | [notes](https://sarahwxie.github.io/csatrimester3/tech_talk) | [reflection](https://github.com/sarahwxie/csatrimester3/blob/main/weekfive.md) | [repl](https://replit.com/@Sarahwxie/sarahChallange) | [intelliJ](https://github.com/avabrooks/swagketo) | [ticket](https://github.com/sarahwxie/csatrimester3/issues/7)
@@ -12,6 +13,7 @@ This is Sarah Xie's trimester 3 wiki for AP Comp Sci A
 | Week 0 | [notes](https://sarahwxie.github.io/csatrimester3/tech_talk) | [reflection](https://github.com/sarahwxie/csatrimester3/blob/main/weekzero.md) | [repl](https://replit.com/@Sarahwxie/sarahChallange) | [intelliJ](https://github.com/sarahwxie/csatrimester3) | [ticket](https://github.com/sarahwxie/csatrimester3/issues/1)
 
 ## Important Links
+
 | Team Github            | Team GitHub Pages   | Profile   |
 | ------------------- | ----------------- | ----------------- | 
 | [link](https://github.com/avabrooks/swagketo)  | [link](https://avabrooks.github.io/swagketo/) | [link](https://github.com/sarahwxie) |
