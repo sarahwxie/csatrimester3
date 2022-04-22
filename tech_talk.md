@@ -72,7 +72,36 @@ Calculator using Stacks, ArrayLists:
 * Make your final/judgement on best sort considering Data Structure loading, Comparisons, Swaps, Big O complexity, and Time.
     
 # week 4
+* This week focused on crossover grading, so we didn't watch any tech talks
+* Instead, since I had to crossover grade with Natasha, I watched a video on making code neater:
+    
+ [![IMAGE ALT TEXT](http://img.youtube.com/vi/HcijbAI4eB0/0.jpg)](http://www.youtube.com/watch?v=HcijbAI4eB0 "How to make code neater")
+    
 # week 5
+Unit 1: Primitive Data Types
+* Primitive types are like variable types, and need to be defined in java
+* Multiple kinds of numbers: integer (int), floating point (double)
+* There are also bytes, shorts, ints, longs. and then floats and doubles
+* Chars (2 bytes) and booleans (1 byte)
+    
+Reflection: While I already knew what the primitive types were, it was nice to be able to be formally intruduced to them. I learned that the numbers can all be divided into integers and floating point numbers. I also learned how much space each one takes up, which we were blind to in Python.
+    
+Unit 2: What is Object Oriented Programming?
+* Assembler input (readable) >> assembler output (hex)
+* Object oriented puts the answer first, and then fills in the solutions later
+* The example given has a cell phone and all its operations
+* The second example given is the class SomeProgram and shows the main setup, which is:
+    
+```
+   public class SomeProgram {
+        public static void main (String args[]){
+            // code here
+        }
+    } 
+```
+
+Reflection: I learned more about object oriented programming, which I am weak in. Going back to the basics helped me more fully understand object oriented programming, and how it was developed. I also did not know about the step with the assembly code, and how it is converted to hex. 
+    
 # week 6
 # week 7
 # week 8
