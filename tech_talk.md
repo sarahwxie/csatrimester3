@@ -78,15 +78,15 @@ Calculator using Stacks, ArrayLists:
  [![IMAGE ALT TEXT](http://img.youtube.com/vi/HcijbAI4eB0/0.jpg)](http://www.youtube.com/watch?v=HcijbAI4eB0 "How to make code neater")
     
 # week 5
-Unit 1: Primitive Data Types
+**Unit 1: Primitive Data Types**
 * Primitive types are like variable types, and need to be defined in java
 * Multiple kinds of numbers: integer (int), floating point (double)
 * There are also bytes, shorts, ints, longs. and then floats and doubles
 * Chars (2 bytes) and booleans (1 byte)
     
-Reflection: While I already knew what the primitive types were, it was nice to be able to be formally intruduced to them. I learned that the numbers can all be divided into integers and floating point numbers. I also learned how much space each one takes up, which we were blind to in Python.
+Reflection: While I already knew what the primitive types were, it was nice to be able to be formally intruduced to them. I learned that the numbers can all be divided into integers and floating point numbers. I also learned how much space each one takes up, which we were blind to in Python. It got me thinking about how its really weird how different programming languages all have different operations, and some of them don't require us to define the variable type. For example, Python obviously has to do it at some point in the computer, but allows us (the user) to not have to. I wonder if that makes Python (as a language) slower than the others. 
     
-Unit 2: What is Object Oriented Programming?
+**Unit 2: What is Object Oriented Programming?**
 * Assembler input (readable) >> assembler output (hex)
 * Object oriented puts the answer first, and then fills in the solutions later
 * The example given has a cell phone and all its operations
