@@ -274,5 +274,12 @@ class Calculator {
     System.out.println("Power\n" + squareRoot);
     System.out.println("\n");
     
+    System.out.println("\nEnter A New Expression:");
+      Scanner scan = new Scanner(System.in);
+
+      String express = scan.nextLine();      
+      Calculator expression = new Calculator(express);
+      System.out.println("\nChoose the Math:\n" +   expression);
+    
   }
 }
